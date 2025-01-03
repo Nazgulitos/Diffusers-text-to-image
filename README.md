@@ -66,7 +66,11 @@ Example Prompts:
 - "Cat with a Top Hat"
 - "Jealous Face"
 
+![Generated Emojis](example.png)
+
 Generated emoji images were evaluated visually for their alignment with the prompts.
+
+Rest of results you can find in .ipynb file.
 
 ---
 
